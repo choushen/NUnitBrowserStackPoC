@@ -1,0 +1,19 @@
+﻿userName: 
+accessKey: 
+app: bs://sample.app
+platforms:
+  - platformName: ios
+    deviceName: iPad 10th
+    platformVersion: 16
+  - platformName: ios
+    deviceName: iPad Air 2019
+    platformVersion: 13
+  - platformName: ios
+    deviceName: iPhone 11
+    platformVersion: 14
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: NUnitBrowserStackPoC
+debug: true
+networkLogs: true

@@ -27,4 +27,11 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Features\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
 </Project>
