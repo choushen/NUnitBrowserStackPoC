@@ -1,4 +1,4 @@
-# XUnitBrowserStackPoC
+# NUnitBrowserStackPoC
 
 This project demonstrates how to set up and run SpecFlow tests with NUnit using BrowserStack for testing an iOS. The project includes a sample `.feature` file, step definitions, and necessary configuration to run tests on BrowserStack.
 
